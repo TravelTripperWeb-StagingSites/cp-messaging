@@ -1,0 +1,15 @@
+{
+  "order": "",
+  "name": "Idle Nudge",
+  "enabled": true,
+  "body_localized": {
+    "en": "<p>Check out our rooms</p>"
+  },
+  "button_url": "/rooms",
+  "is_button": true,
+  "trigger": {
+    "url_filter": "/about",
+    "trigger_type": "idle",
+    "idle_time": "3"
+  }
+}
