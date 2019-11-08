@@ -3,7 +3,7 @@
   "name": "Default Modal",
   "enabled": true,
   "header_localized": {
-    "en": "<p>Book Direct and Save</p>"
+    "en": "<p>Book <strong>Direct</strong> and Save</p>"
   },
   "body_localized": {
     "en": "<p>Save 15% by booking direct*</p>"
@@ -18,6 +18,7 @@
   },
   "visual_type": "modal",
   "trigger": {
-    "trigger_type": "always"
+    "trigger_type": "always",
+    "url_filter": ""
   }
 }
