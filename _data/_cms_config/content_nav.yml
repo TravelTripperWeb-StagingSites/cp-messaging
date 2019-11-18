@@ -20,7 +20,15 @@ items:
         label: Categories
       - id: post_tags
         label: Tags
-  - id: conversion_plus_messages
+  - id: Conversion Plus
+    items:
+      - id: conversion_plus_banners
+        label: Banners
+      - id: conversion_plus_messages
+        label: Messages
+      - id: conversion_plus_targets
+        label: Targets
+      
   - id: events
   - id: dining
   - id: __galleries__
