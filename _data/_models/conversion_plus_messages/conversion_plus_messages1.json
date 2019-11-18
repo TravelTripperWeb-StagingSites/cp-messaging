@@ -1,24 +1,3 @@
 {
   "order": "",
-  "name": "Default Modal",
-  "enabled": true,
-  "header_localized": {
-    "en": "<p>Book <strong>Direct</strong> and Save</p>"
-  },
-  "body_localized": {
-    "en": "<p>Save 15% by booking direct*</p>"
-  },
-  "button_url": "#",
-  "button_text_localized": {
-    "en": "Book Now"
-  },
-  "button_target": "_blank",
-  "footer_localized": {
-    "en": "<p>* must book at least 2 days in advance</p>"
-  },
-  "visual_type": "modal",
-  "trigger": {
-    "trigger_type": "always",
-    "url_filter": ""
-  }
 }
