@@ -1,0 +1,13 @@
+{
+  "order": 2,
+  "name": "General Hi",
+  "enabled": true,
+  "message_localized": {
+    "en": "<p>Hi!</p>"
+  },
+  "is_button": true,
+  "targets": [
+    "conversion_plus_targets1"
+  ],
+  "delay": 5
+}
