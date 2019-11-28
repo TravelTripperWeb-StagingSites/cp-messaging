@@ -1,0 +1,16 @@
+{
+  "booking_search": {
+    "departure_date": "2020-01-01T00:00:00.000Z",
+    "min_los": "2",
+    "max_los": "5",
+    "min_lead_time": "10",
+    "room_codes": [
+      "S1K",
+      "S2Q"
+    ],
+    "offer_codes": [
+      "NONREF"
+    ]
+  },
+  "name": "All Options"
+}

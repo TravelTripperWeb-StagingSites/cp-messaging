@@ -1,0 +1,9 @@
+{
+  "booking_search": "",
+  "name": "Email Campaign",
+  "matching_url": "*email2019*",
+  "sticky": true,
+  "excluded_pages": [
+    "index.html"
+  ]
+}
